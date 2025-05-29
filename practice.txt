@@ -1,1 +1,2 @@
 This is my first practical Git file.
+This line is from my new branch.
